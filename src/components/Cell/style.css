@@ -1,0 +1,40 @@
+.flex-item {
+    background: rgb(0, 80, 150);
+    margin: 5px;
+    color: white;
+    font-weight: bold;
+    font-size: 1.5em;
+    text-align: center;
+    flex: 1 0 auto;
+    height: 100px;
+    width: 100px;
+}
+.flex-item-circle-empty {
+    background-color: white;
+    margin: 0 auto;
+    border-radius: 50%;
+    height: 100%;
+}
+
+.flex-item-circle-full-first {
+    background-color: red;
+    margin: 0 auto;
+    border-radius: 50%;
+    height: 100%;
+}
+
+.flex-item-circle-full-second{
+    background-color: blue;
+    margin: 0 auto;
+    border-radius: 50%;
+    height: 100%;   
+}
+
+.show-piece {
+    display: block;
+}
+
+.hide-piece {
+    background-color: white;
+}
+

@@ -1,0 +1,25 @@
+.cellContainer {
+  height: 100%;
+  width: 100%;
+}
+
+.flex-item-circle-empty {
+    background-color: white;
+    margin: 0 auto;
+    border-radius: 50%;
+    height: 100%;
+}
+
+.flex-item-circle-full-first {
+    background-color: red;
+    margin: 0 auto;
+    border-radius: 50%;
+    height: 100%;
+}
+
+.flex-item-circle-full-second{
+    background-color: blue;
+    margin: 0 auto;
+    border-radius: 50%;
+    height: 100%;   
+}
